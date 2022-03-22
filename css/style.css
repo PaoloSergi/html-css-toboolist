@@ -99,3 +99,11 @@ section{
 .sticker.recruiting{
     background-color: rgb(79, 184, 184);
 }
+
+.sticker.mobile{
+    background-color: orange;
+}
+
+.sticker.website{
+    background-color: rgb(231, 122, 245);
+}
