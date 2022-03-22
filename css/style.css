@@ -1,4 +1,27 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(200, 214, 216, 0.178);
+}
+
+header{
+    height: 80px;
+    background-color: white;
+}
+
+header img{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 15px;
+}
+
+header h1{
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
 }
