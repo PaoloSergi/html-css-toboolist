@@ -72,6 +72,7 @@ section{
     display: inline-block;
     border-radius: 50%;
     padding: 0 6px;
+    color:rgb(68, 255, 68);
 }
 
 .task .undone{
@@ -79,6 +80,7 @@ section{
     display: inline-block;
     border-radius: 50%;
     padding: 0 6px;
+    color:red;
 }
 
 .task .sticker{
